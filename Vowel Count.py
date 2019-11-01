@@ -8,4 +8,3 @@ def getCount(inputStr):
 
 
 print(getCount("doopsko"))
-
